@@ -1,5 +1,5 @@
 # Phishing-analysis-report
-# Cybersecurity Internship Task 2: Phishing Email Analysis Report
+# Phishing Email Analysis Report
 
 ## Objective
 [span_0](start_span)The goal of this task is to identify and analyze the characteristics of a suspicious email to determine if it is a phishing attempt[span_0](end_span).
